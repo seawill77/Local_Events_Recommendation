@@ -1,0 +1,30 @@
+熟悉了解的工具：
+
+mySQL
+
+PostMan 
+
+Sublime 
+
+TomCat
+
+EC2
+
+
+Prequests:
+
+AWS 账号
+
+
+项目简历介绍：
+
+
+Nearby Event Recommendation App 
+· Utilized HTML/CSS and React.js with AJAX to implement the front end design of a website appli- cation that allows user to search nearby events based on Ticketmaster’s APIs
+· Used Spring MVC Framework and MySQL in a more scalable and stable practice. Knowledge of the Spring Bean life cycle and scope and callback methods.
+· Designed Content-Based-Recommendation algorithms based on search history and favourite records.
+· Login ............
+· Utilized Java servlets with Restful APIs to handle HTTP requests and responses. Java servlets with
+Restful APIs to handle HTTP requests and responses.
+· Wrote Unit test by JUnit and Deployed server to Amazon EC2 to handle 150 queries per second tested
+      by Apache JMeter.
